@@ -1,6 +1,6 @@
 		Mus musculus	Mus musculus	Mus musculus	Mus musculus	Danio rerio	Danio rerio	Danio rerio	Danio rerio	Oryzias latipes	Oryzias latipes	Oryzias latipes	Oryzias latipes	Oryzias latipes	Oryzias latipes	Oryzias latipes	Oryzias latipes	Oncorhynchus mykiss	Oncorhynchus mykiss	Oncorhynchus mykiss	Oncorhynchus mykiss	Malawi cichlids	Malawi cichlids	Malawi cichlids	Malawi cichlids
 		(molars)	(molars)	(molars)	(molars)	(pharyngeal teeth)	(pharyngeal teeth)	(pharyngeal teeth)	(pharyngeal teeth)	(oral teeth)	(oral teeth)	(oral teeth)	(oral teeth)	(pharyngeal teeth)	(pharyngeal teeth)	(pharyngeal teeth)	(pharyngeal teeth)	(oral teeth)	(oral teeth)	(oral teeth)	(oral teeth)	(oral teeth)	(oral teeth)	(oral teeth)	(oral teeth)
-		Initiation	Cap	Bell	Late bell	EM	LM	ED	LD	EM	LM	ED	LD	EM	LM	ED	LD	EM	LM	ED	LD	EM	LM	ED	LD
+		Initiation	Cap	Bell	Late-bell	EM	LM	ED	LD	EM	LM	ED	LD	EM	LM	ED	LD	EM	LM	ED	LD	EM	LM	ED	LD
 		& bud																							
 Shh	E	[5, 11, 8]	[5, 11, 8]	[5]	[5]	[31]	[33]	[33]	[33]									[25, 22]	[25]	[25, 22]	[25, 22]	-[32]	[30,32]	[30,32]	[30,32]
 	M	-	-	-	-	-	-	-	-									-	-	[25, 22]	[25, 22]	-[32]	-	[30,32]	[30,32]
