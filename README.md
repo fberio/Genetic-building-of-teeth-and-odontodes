@@ -10,6 +10,7 @@ The role of this database is to have an overview of gene expressions characteriz
 ![Number of articles per year](dev_stages.png)
 
 ## Sources
+### For the interspecific table
 
 | Year |  Articles, Thesis and Reports | Authors | Ref n° |
 |------|-------------------------------|---------|--------|
@@ -46,3 +47,14 @@ The role of this database is to have an overview of gene expressions characteriz
 | 2010 | Hedgehog signaling is required at multiple stages of zebrafish tooth development | Jackman _et al_. | 31 |
 | 2013 | Common developmental pathways link tooth shape to regeneration | Fraser _et al_. | 32 |
 | 2015 | Hedgehog signaling regulates dental papilla formation and tooth size during zebrafish odontogenesis | Yu _et al_. | 33 |
+
+### For the intraspecific table
+
+| Year |  Articles, Thesis and Reports | Authors | Ref n° |
+|------|-------------------------------|---------|--------|
+| 2011 | The homology of odontodes in gnathostomes: insights from Dlx gene expression in the dogfish, _Scyliorhinus canicula_ | Debiais-Thibaud _et al_. | 1 |
+| 2015 | Tooth and scale morphogenesis in shark: an alternative process to the mammalian enamel knot system | Debiais-Thibaud _et al_. | 2 |
+| 2016 | Sox2+ progenitors in sharks link taste development with the evolution of regenerative teeth from denticles | Martin _et al_. | 3 |
+| 2016 | An ancient dental gene set governs development and continuous regeneration of teeth in sharks | Rasch _et al_. | 4 |
+| 2017 | Developing an ancient epithelial appendage: FGF signalling regulates early tail denticle formation in sharks | Cooper _et al_. | 5 |
+| 2018 | Evolution of dental tissue mineralization: an analysis of the jawed vertebrate SPARC and SPARC-L families | Enault _et al_. | 6 |
