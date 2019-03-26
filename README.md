@@ -1,4 +1,4 @@
-# Genetic-building-of-teeth-and-odontodes
+# Genetic building of teeth and odontodes
 
 **Review** of gene expression patterns during tooth and odontode development in vertebrates, with a focus on the small-spotted catshark _Scyliorhinus canicula_. 
 
@@ -12,7 +12,7 @@ The role of this database is to have an overview of gene expressions characteriz
 ## Sources
 ### For the interspecific table
 
-| Year |  Articles, Theses and Reports | Authors | Ref n° |
+| Year |  Articles, Theses, and Reports | Authors | Ref n° |
 |------|-------------------------------|---------|--------|
 | 1987 | In vivo expression of mRNA for the Ca++-binding protein SPARC (osteonectin) revealed by _in situ_ hybridization. | Holland _et al_. | 1 |
 | 1993 | Transient expression of type III collagen by odontoblasts: developmental changes in the distribution of Pro-α1 (III) and Pro-α1 (I) collagen mRNAs in dental tissues | Lukinmaa _et al_. | 2 |
@@ -50,7 +50,7 @@ The role of this database is to have an overview of gene expressions characteriz
 
 ### For the intraspecific table
 
-| Year |  Articles, Theses and Reports | Authors | Ref n° |
+| Year |  Articles, Theses, and Reports | Authors | Ref n° |
 |------|-------------------------------|---------|--------|
 | 2011 | The homology of odontodes in gnathostomes: insights from Dlx gene expression in the dogfish, _Scyliorhinus canicula_ | Debiais-Thibaud _et al_. | 1 |
 | 2015 | Tooth and scale morphogenesis in shark: an alternative process to the mammalian enamel knot system | Debiais-Thibaud _et al_. | 2 |
