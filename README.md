@@ -7,7 +7,7 @@
 The role of this database is to have an overview of gene expressions characterizing the development of odontodes and tooth-like structures in vertebrates. We reference gene expressions from _in situ_ hybidizations compared to those tested in _S. canicula_.
 
 ## Developmental stages
-
+![Number of articles per year](dev_stages.png)
 
 ## Sources
 
