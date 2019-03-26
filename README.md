@@ -45,7 +45,7 @@ The role of this database is to have an overview of gene expressions characteriz
 | 2008 | A periodic pattern generator for dental diversity | Fraser _et al_. | 30 |
 | 2010 | Hedgehog signaling is required at multiple stages of zebrafish tooth development | Jackman _et al_. | 31 |
 | 2013 | Common developmental pathways link tooth shape to regeneration | Fraser _et al_. | 32 |
-| 2015 | Hedgehog signaling regulates dental papilla formation and tooth size during zebrafish odontogenesis | Yu _t al_. | 33 |
+| 2015 | Hedgehog signaling regulates dental papilla formation and tooth size during zebrafish odontogenesis | Yu _et al_. | 33 |
 
 ## How To Contribute
 
