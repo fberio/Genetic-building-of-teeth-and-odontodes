@@ -2,7 +2,7 @@
 
 **Review** of gene expression patterns during tooth and odontode development in vertebrates, with a focus on the small-spotted catshark _Scyliorhinus canicula_. 
 
-**Related publication:** 
+**Related publication:** [incoming]
 
 The role of this database is to have an overview of gene expressions characterizing the development of odontodes and tooth-like structures in vertebrates. We reference gene expressions from _in situ_ hybidizations compared to those tested in _S. canicula_.
 
@@ -17,12 +17,12 @@ The role of this database is to have an overview of gene expressions characteriz
 | 1993 | Transient expression of type III collagen by odontoblasts: developmental changes in the distribution of Pro-α1 (III) and Pro-α1 (I) collagen mRNAs in dental tissues | Lukinmaa _et al_. | 2 |
 | 1993 | Identification of BMP-4 as a signal mediating secondary induction between epithelial and mesenchymal tissues during early tooth development | Vainio _et al_. | 3 |
 | 1994 | Differential and overlapping expression domains of Dlx-2 and Dlx-3 suggest distinct roles for Distal-less homeobox genes in craniofacial development | Robinson and Mahon | 4 |
-| 1995 | Hedgehog and Bmp Genes Are Coexpressed at Many Diverse Sites of Cell–Cell Interaction in the Mouse Embryo | Bitgood and McMahon | 5 |
+| 1995 | Hedgehog and Bmp genes are coexpressed at many diverse sites of cell–cell interaction in the mouse embryo | Bitgood and McMahon | 5 |
 | 1995a | Midkine (MK), a heparin-binding growth/differentiation factor, is regulated by retinoic acid and epithelial-mesenchymal interactions in the developing mouse tooth, and affects cell proliferation and morphogenesis. | Mitsiadis _et al_. | 6 |
 | 1995b | Expression of the heparin-binding cytokines, midkine (MK) and HB-GAM (pleiotrophin) is associated with epithelial-mesenchymal interactions during fetal development and organogenesis | Mitsiadis _et al_. | 7 |
 | 1996 | The enamel knot as a signaling center in the developing mouse tooth | Vaahtokari _et al_. | 8 |
 | 1997 | Expression patterns of bone morphogenetic proteins (Bmps) in the developing mouse tooth suggest roles in morphogenesis and cell differentiation | Åberg _et al_. | 9 |
-| 1997 | Antagonistic Interactions between FGF and BMP Signaling Pathways: A Mechanism for Positioning the Sites of Tooth Formation | Neubüser _et al_. | 10 |
+| 1997 | Antagonistic interactions between FGF and BMP signaling pathways: a mechanism for positioning the sites of tooth formation | Neubüser _et al_. | 10 |
 | 1998 | The Shh signalling pathway in tooth development: defects in Gli2 and Gli3 mutants | Hardcastle _et al_. | 11 |
 | 1998 | The life history of an embryonic signaling center: BMP-4 induces p21 and is associated with apoptosis in the mouse tooth enamel knot | Jernvall  _et al_. | 12 |
 | 1998 | Association of developmental regulatory genes with the development of different molar tooth shapes in two species of rodents | Keränen _et al_. | 13 |
