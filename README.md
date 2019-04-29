@@ -4,7 +4,7 @@
 
 **Related publication:** Berio, F. and Debiais-Thibaud, M. (2019) Evolutionary developmental genetics of teeth and odontodes in jawed vertebrates: a perspective from the study of elasmobranch fishes. _Journal of Fish Biology_. Submitted.
 
-The role of this database is to have an overview of gene expressions characterizing the development of odontodes and tooth-like structures in vertebrates. We reference gene expressions from _in situ_ hybidizations compared to those tested in _S. canicula_.
+This dataset provides an overview of gene expressions characterizing the development of odontodes and tooth-like structures in vertebrates. We reference gene expressions from _in situ_ hybidizations compared to those tested in _S. canicula_.
 
 ## Developmental stages
 ![Developmental stages of tooth and tooth-like structures](dev_stages_small.png)
