@@ -44,7 +44,7 @@ This dataset provides an overview of gene expressions characterizing the develop
 | 2007 | Development of oral and pharyngeal teeth in the medaka (_Oryzias latipes_): comparison of morphology and expression of eve1 gene | Debiais-Thibaud _et al_. | 28 |
 | 2008 | Low divergence in Dlx gene expression between dentitions of the medaka (_Oryzias latipes_) _versus_ high level of expression shuffling in osteichtyans | Debiais-Thibaud _et al_. | 29 |
 | 2008 | A periodic pattern generator for dental diversity | Fraser _et al_. | 30 |
-| 2008 | Unique and Shared Gene Expression Patterns in Atlantic Salmon (Salmo Salar) Tooth Development | Huysseune _et al_. | 34|
+| 2008 | Unique and Shared Gene Expression Patterns in Atlantic Salmon (_Salmo salar_) Tooth Development | Huysseune _et al_. | 34|
 | 2010 | Hedgehog signaling is required at multiple stages of zebrafish tooth development | Jackman _et al_. | 31 |
 | 2013 | Common developmental pathways link tooth shape to regeneration | Fraser _et al_. | 32 |
 | 2015 | Hedgehog signaling regulates dental papilla formation and tooth size during zebrafish odontogenesis | Yu _et al_. | 33 |
