@@ -2,7 +2,7 @@
 
 **Review** of gene expression patterns during tooth and odontode development in vertebrates, with a focus on the small-spotted catshark _Scyliorhinus canicula_. 
 
-**Related publication:** Berio, F. and Debiais-Thibaud, M. (2019) Evolutionary developmental genetics of teeth and odontodes in jawed vertebrates: a perspective from the study of elasmobranch fishes. _Journal of Fish Biology_. Submitted.
+**Related publication:** Berio F, Debiais-Thibaud M. Evolutionary developmental genetics of teeth and odontodes in jawed vertebrates: a perspective from the study of elasmobranchs. J Fish Biol. 2020;1–13. https://doi.org/10.1111/jfb.14225
 
 This dataset provides an overview of gene expressions characterizing the development of odontodes and tooth-like structures in vertebrates. We reference gene expressions from _in situ_ hybidizations compared to those tested in _S. canicula_.
 
